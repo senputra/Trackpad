@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trackpad beta</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip">IP Address : </string>
+    <string name="port">port</string>
+    <string name="connect">Connect</string>
+    <string name="head">Get your IP address and port from the server</string>
+    <string name="open">Buka Laci</string>
+    <string name="tutup">Tutup Laci</string>
+</resources>
